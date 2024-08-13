@@ -1,2 +1,5 @@
 # Lista-de-Tarefas
-Para iniciantes em linguagem de marcação(HTML e CSS) e programação(JavaScript)
+Pequeno projeto utilizando as linguagem de marcação HTML, CSS e a linguagem de programação JavaScript
+Caso tenha dúvidas ou sugestão entre em contato
+Espero que ajudem vocês!
+<3
