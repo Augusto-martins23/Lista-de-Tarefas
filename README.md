@@ -1,5 +1,5 @@
 # Lista-de-Tarefas
-Pequeno projeto utilizando as linguagem de marcação HTML, CSS e a linguagem de programação JavaScript
-<br>Caso tenha dúvidas ou sugestão entre em contato
-<br>Espero que ajudem vocês!
+Small project using the markup languages ​​HTML, CSS and the JavaScript programming language
+<br>If you have any questions or suggestions, please get in touch
+<br>I hope they help you!
 <3
